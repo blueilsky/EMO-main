@@ -52,7 +52,6 @@ experiment;
 3. Apply EMO to your own data:
 
 ```matlab
-% X: N x d features, y: N x 1 labels (0 = majority, 1 = minority)
 [X_res, y_res] = meb_plot(X, y);
 ```
 
